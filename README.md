@@ -3,7 +3,7 @@
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.gg/6gd7PT9DwG" target"blank_"><img src="https://img.shields.io/badge/Discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://sptfy.com/versius/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://open.spotify.com/user/pd2bupatu4xjqlgtzola6nbov" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://github.com/versiusdev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
