@@ -29,5 +29,5 @@
 
 <div align="center">
 <h3>Discord Activity</h3>
-(https://lanyard.cnrad.dev/api/822344633493356565)](https://discord.com/users/822344633493356565)
+``[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/822344633493356565)](https://discord.com/users/822344633493356565)``
 </div>
