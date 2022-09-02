@@ -29,5 +29,5 @@
 
 <div align="center">
 <h3>Discord Activity</h3>
-``[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/822344633493356565)](https://discord.com/users/822344633493356565)``
+<img src="https://lanyard-profile-readme.vercel.app/api/822344633493356565" alt="Furkani_Yerim" />
 </div>
